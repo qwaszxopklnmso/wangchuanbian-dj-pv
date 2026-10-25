@@ -1,0 +1,19 @@
+# 版权输入：绝不入库（获取方式见 README"音频"）
+*.m4s
+*.m4a
+*.wav
+*.mp3
+*.flac
+
+# 生成物：重跑脚本即可重建
+assets/
+__pycache__/
+*.pyc
+
+# 渲染成片（发布在 Releases 附件）
+忘川彼岸DJ·棋魂梗图PV.mp4
+
+# 系统
+Thumbs.db
+.DS_Store
+*.log
